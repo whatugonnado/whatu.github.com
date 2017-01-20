@@ -2,7 +2,22 @@
 layout: default
 ---
 
+# [](#header-1)Whatu GitHub Page
+
+This Page contains
+
+1. Algorithm study.
+2. Game programming (C++) study.
+3. ~~SSG~~ Java study.
+4. [~~SSG~~ Tool study](ssgtoolstudy).
+
+Below here means nothing now(default template only)
+
+---
+---
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
+
 
 [Link to another page](another-page).
 
