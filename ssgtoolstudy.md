@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[back](./)
+
 # ~~SSG~~ Tool Study Page
 
 This Page contains 
@@ -21,9 +23,10 @@ This Page contains
 > Shortcuts 
 
 ---
+
 ### Requirements
 
-`Before` Start Using Eclipse, you need `Java`
+Before Start Using Eclipse, you need Java
 
 Click [here](http://www.oracle.com/technetwork/java/javase/downloads/index.html) to download Java
 
@@ -38,6 +41,6 @@ Accept License Agreement, download proper version of your OS.
 
 Click [here](https://www.eclipse.org/downloads/) to download
 
-Choose `IDE for Java EE Developers`
+Choose IDE for Java EE Developers
 
 ---
