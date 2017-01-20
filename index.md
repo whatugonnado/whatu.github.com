@@ -8,7 +8,7 @@ This Page contains
 
 1. Algorithm study.
 2. Game programming (C++) study.
-3. ~~SSG~~ Java study.
+3. [~~SSG~~ Java study](ssgjavastudy).
 4. [~~SSG~~ Tool study](ssgtoolstudy).
 
 Below here means nothing now(default template only)
