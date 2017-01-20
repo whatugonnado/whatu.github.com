@@ -48,3 +48,32 @@ Click [here](https://www.eclipse.org/downloads/) to download
 Choose IDE for Java EE Developers
 
 ---
+
+### New Project
+
+1. Run Eclipse
+2. Ctrl + N
+3. Select Java Project
+4. Set project name
+
+---
+
+### New Class
+
+1. Activate a project
+2. Ctrl + N
+3. Select Class
+4. Alt + V to make public void static main in that Class
+
+---
+
+### Getter/Setter
+
+1. Alt + Shift + S
+2. R
+3. Alt + A or Press private member variables
+
+### Using Library
+
+Ctrl + Shift + O to import automatically
+
