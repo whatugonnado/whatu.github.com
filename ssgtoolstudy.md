@@ -37,9 +37,13 @@ Click 'Java Platform (JDK)' just like above.
 Accept License Agreement, download proper version of your OS.
 
 ---
+
 ### Download
 
 Click [here](https://www.eclipse.org/downloads/) to download
+
+
+![](https://www.eclipse.org/downloads/images/javaee.png)
 
 Choose IDE for Java EE Developers
 
