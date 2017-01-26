@@ -2,70 +2,137 @@
 layout: default
 ---
 
-[back](./)
+# [](#header-1)Whatu GitHub Page
 
-# ~~SSG~~ Tool Study Page
+This Page contains
 
-This Page contains 
+1. Algorithm study.
+2. Game programming (C++) study.
+3. [~~SSG~~ Java study](ssgjavastudy).
+4. [~~SSG~~ Tool study](ssgtoolstudy).
 
-1. Eclipse study
-2. Chrome DevTools study
-3. Fiddler study
-
+Below here means nothing now(default template only)
 
 ---
+---
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 
-## 1. Eclipse study
+[Link to another page](another-page).
 
-> Learn how to use Eclipse
+There should be whitespace between paragraphs.
 
-> Shortcuts 
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+# [](#header-1)Header 1
+
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+## [](#header-2)Header 2
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+
+### [](#header-3)Header 3
+
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
+
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
+
+#### [](#header-4)Header 4
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+##### [](#header-5)Header 5
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
+
+###### [](#header-6)Header 6
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+### There's a horizontal rule below this.
+
+* * *
+
+### Here is an unordered list:
+
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
+
+### And an ordered list:
+
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
+
+### And a nested list:
+
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+
+### Small image
+
+![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+
+### Large image
+
+![](https://guides.github.com/activities/hello-world/branching.png)
 
 
+### Definition lists can be used with HTML syntax.
 
-### Requirements
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
 
-Before Start Using Eclipse, you need Java
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
 
-Click [here](http://www.oracle.com/technetwork/java/javase/downloads/index.html) to download Java
-
-![](http://www.oracle.com/ocom/groups/public/@otn/documents/digitalasset/1612441.gif)
-
-Click 'Java Platform (JDK)' just like above.
-
-Accept License Agreement, download proper version of your OS.
-
-### Download
-
-Click [here](https://www.eclipse.org/downloads/) to download
-
-
-![](https://www.eclipse.org/downloads/images/javaee.png)
-
-Choose IDE for Java EE Developers
-
-### New Project
-
-1. Run Eclipse
-2. Ctrl + N
-3. Select Java Project
-4. Set project name
-
-### New Class
-
-1. Activate a project
-2. Ctrl + N
-3. Select Class
-4. Alt + V to make public void static main in that Class
-
-### Getter/Setter
-
-1. Alt + Shift + S
-2. R
-3. Alt + A or Press private member variables
-
-### Using Library
-
-Ctrl + Shift + O to import automatically
-
+```
+The final element.
+```
